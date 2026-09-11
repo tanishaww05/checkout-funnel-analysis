@@ -76,13 +76,7 @@ node build_slides.js         # creates slides.pptx
    `case_study.md` for hypothesis, sample size, primary/guardrail metrics,
    and rollout plan.
 
-## Before you publish — checklist
 
-- [ ] Replace `[Your Name]` in `case_study.md`, this README, and slide 1 of `slides.pptx`
-- [ ] Add your LinkedIn/email at the bottom of this README
-- [ ] Skim `case_study.md` once end-to-end and make sure the numbers/narrative sound like your own words, not a template — you'll be asked about this in an interview
-- [ ] Optional: add a 1-2 line pinned repo description on GitHub, e.g. *"Funnel + retention analysis of a Zomato checkout-flow bug, with an A/B test design to fix it. SQL, Python, PowerPoint."*
-- [ ] Optional: convert `slides.pptx` to PDF and add a link/preview image at the top of this README so it renders without needing a download
 
 ## Push to GitHub
 
@@ -98,5 +92,5 @@ git push -u origin main
 
 ## Author
 
-[Your Name] — built as a portfolio project for Product Analyst roles.
-[LinkedIn] · [Email]
+TANISHA GANGWAL — built as a portfolio project for Product Analyst roles.
+
